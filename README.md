@@ -18,5 +18,5 @@ Class Attributes:
 - Blk_Per_Game/Stl_Per Game = Defense metric calculated by diving totals by games played
 
 Limitations:
-- Sample Size = Players who don't have a lot of playing time may appear in the top 100 because of skewed percentages. A minimum threshold should be added for better accuracy.
-- Data Completeness: Missing or zero values cause errors.
+- Sample Size = Players who don't have a lot of playing time may appear in the top 100 because of skewed percentages. A minimum threshold should be added for better accuracy
+- Data Completeness: Missing or zero values cause errors
